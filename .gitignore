@@ -1,2 +1,12 @@
+.bsp
+.idea
+target
+project/target
+
+bench/.bsp
+bench/.idea
+bench/project
+bench/target
+
 *.class
 *.log
